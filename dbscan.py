@@ -16,7 +16,7 @@ logging.info("程式開始執行")
 
 # 1. 讀取 CSV 資料
 try:
-    data = pd.read_csv('diet_data_cleaned.csv')  # 請將 'diet_data.csv' 替換為您的 CSV 檔案名
+    data = pd.read_csv('diet_data_cleaned.csv')
     logging.info("成功讀取 CSV 資料")
 except Exception as e:
     logging.error(f"讀取 CSV 資料失敗: {e}")
