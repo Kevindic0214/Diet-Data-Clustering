@@ -11,7 +11,7 @@
 | ---------------------------------------------- | ----------------------------------------------------- |
 | Stewed                                         | Bakedbean                                             |
 | Prune                                          | Pulses                                                |
-| DrieD                                          | Mixedvegetable                                        |
+| Dried                                          | Mixedvegetable                                        |
 | Mixed                                          | Vegetablepieces                                       |
 | Apple                                          | Coleslaw                                              |
 | Banana                                         | Sidesalad                                             |
@@ -20,7 +20,7 @@
 | Grapefruit                                     | Greenbean                                             |
 | Grape                                          | Beetroot                                              |
 | Mango                                          | Broccoli                                              |
-| Melon                                          | Butternut_squash                                      |
+| Melon                                          | Butternutsquash                                       |
 | Orange                                         | Cabbage_kale                                          |
 | Satsuma                                        | Carrot                                                |
 | Peach_nectarine                                | Cauliflower                                           |
